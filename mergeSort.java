@@ -1,5 +1,5 @@
 /**
- * Written by: Edward Moon
+ *
  * =======================================================
  * This part of the Java program is to test out the
  * divide and conquer algoritm known as a merge sort.
@@ -8,6 +8,7 @@
  * the two sorted halves. merge() function is used for merging
  * two halves.
  * =======================================================
+ *
  */
 import java.util.*;
 import java.util.Scanner.*;
